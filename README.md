@@ -1,2 +1,2 @@
 # datasciencecoursera
-a repository will be linked with Rstudio
+Create a repo called datasciencecoursera
